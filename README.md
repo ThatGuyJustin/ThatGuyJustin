@@ -6,6 +6,7 @@ Most of the languages I use are Java, JS, and Python.
 
 I help maintain a Discord API Library named [BetterDisco](https://github.com/ElderLabs/BetterDisco)<br/>
 I do things for this random bot called [Aperture](https://aperture.bot)
+I write random Minecraft mods/plugins that may/may not be useful 🤷‍♂️
 
 <img src="https://turtlebongo.dev/yoshi.gif"/>
 <!--
