@@ -1,8 +1,8 @@
 ### Hello!
 
-My name is Justin and I'm a programmer that likes to make really random things, as well as usefull things that I use for projects from time to time.
+My name is Justin, and I'm a programmer who likes to make really random things and useful things that I use for projects from time to time.
 
-Most of the languages I use are Java, JS, and Python (oh, and some Kotlin now?).
+I mostly use Java, JS, and Python (oh, and some Kotlin now?).
 
 I help maintain a Discord API Library named [BetterDisco](https://github.com/ElderLabs/BetterDisco)<br/>
 ~~I do things for this random bot called [Aperture](https://aperture.bot)~~
