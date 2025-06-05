@@ -2,13 +2,14 @@
 
 My name is Justin, and I'm a programmer who likes to make really random things and useful things that I use for projects from time to time.
 
-I mostly use Java, JS, and Python (oh, and some Kotlin now?).
+I mostly use Kotlin (& Java), Node JS, and Python.
 
 I help maintain a Discord API Library named [BetterDisco](https://github.com/ElderLabs/BetterDisco)<br/>
 ~~I do things for this random bot called [Aperture](https://aperture.bot)~~
 I write random Minecraft mods/plugins that may/may not be useful 🤷‍♂️
+I also write random Discord Bots that, like, *1 person* asks for.
 
-<img src="https://turtlebongo.dev/yoshi.gif"/>
+<img src="https://fatyoshi.dev/yoshi.gif"/>
 <!--
 **ThatGuyJustin/ThatGuyJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
